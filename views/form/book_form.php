@@ -1,4 +1,5 @@
-<?php
+<!---
+Si se ocupa hay que encerrar el codigo en php <?php ?>
 
     $connection = mysqli_connect('localhost', 'root', '','chimucakes_bd');
 
@@ -18,5 +19,4 @@
     }else{
         echo 'algo salio mal vuelva a cargar los datos';
     }
-
-?>
+--->

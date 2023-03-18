@@ -24,7 +24,7 @@ require '../partials/header.php';
             <div class="content">
                 <h3>Torta ejemplo 1</h3>
                 <p>Lorem ipsum dolor sit amet consectetur, Lorem ipsum dolor sit amet consectetur,</p>
-                <a href="book.php" class="btn">Book now</a>
+                <a href="book.php" class="btn">Pedir Ya</a>
             </div>       
         </div>
 
@@ -35,7 +35,7 @@ require '../partials/header.php';
             <div class="content">
                 <h3>Torta ejemplo 2</h3>
                 <p>Lorem ipsum dolor sit amet consectetur, Lorem ipsum dolor sit amet consectetur,</p>
-                <a href="book.php" class="btn">Book now</a>
+                <a href="book.php" class="btn">Pedir Ya</a>
             </div>       
         </div>
 
@@ -46,7 +46,7 @@ require '../partials/header.php';
             <div class="content">
                 <h3>Torta ejemplo 3</h3>
                 <p>Lorem ipsum dolor sit amet consectetur, Lorem ipsum dolor sit amet consectetur,</p>
-                <a href="book.php" class="btn">Book now</a>
+                <a href="book.php" class="btn">Pedir Ya</a>
             </div>       
         </div>
 
@@ -57,7 +57,7 @@ require '../partials/header.php';
             <div class="content">
                 <h3>Torta ejemplo 4</h3>
                 <p>Lorem ipsum dolor sit amet consectetur, Lorem ipsum dolor sit amet consectetur,</p>
-                <a href="book.php" class="btn">Book now</a>
+                <a href="book.php" class="btn">Pedir Ya</a>
             </div>       
         </div>
 
@@ -68,7 +68,7 @@ require '../partials/header.php';
             <div class="content">
                 <h3>Torta ejemplo 5</h3>
                 <p>Lorem ipsum dolor sit amet consectetur, Lorem ipsum dolor sit amet consectetur,</p>
-                <a href="book.php" class="btn">Book now</a>
+                <a href="book.php" class="btn">Pedir Ya</a>
             </div>       
         </div>
 
@@ -79,7 +79,7 @@ require '../partials/header.php';
             <div class="content">
                 <h3>Torta ejemplo 6</h3>
                 <p>Lorem ipsum dolor sit amet consectetur, Lorem ipsum dolor sit amet consectetur,</p>
-                <a href="book.php" class="btn">Book now</a>
+                <a href="book.php" class="btn">Pedir Ya</a>
             </div>       
         </div>
 
@@ -90,7 +90,7 @@ require '../partials/header.php';
             <div class="content">
                 <h3>Torta ejemplo 7</h3>
                 <p>Lorem ipsum dolor sit amet consectetur, Lorem ipsum dolor sit amet consectetur,</p>
-                <a href="book.php" class="btn">Book now</a>
+                <a href="book.php" class="btn">Pedir Ya</a>
             </div>       
         </div>
 
@@ -101,7 +101,7 @@ require '../partials/header.php';
             <div class="content">
                 <h3>Torta ejemplo 8</h3>
                 <p>Lorem ipsum dolor sit amet consectetur, Lorem ipsum dolor sit amet consectetur,</p>
-                <a href="book.php" class="btn">Book now</a>
+                <a href="book.php" class="btn">Pedir Ya</a>
             </div>       
         </div>
 
@@ -112,7 +112,7 @@ require '../partials/header.php';
             <div class="content">
                 <h3>Torta ejemplo 9</h3>
                 <p>Lorem ipsum dolor sit amet consectetur, Lorem ipsum dolor sit amet consectetur,</p>
-                <a href="book.php" class="btn">Book now</a>
+                <a href="book.php" class="btn">Pedir Ya</a>
             </div>       
         </div>
 
@@ -123,7 +123,7 @@ require '../partials/header.php';
             <div class="content">
                 <h3>Torta ejemplo 10</h3>
                 <p>Lorem ipsum dolor sit amet consectetur, Lorem ipsum dolor sit amet consectetur,</p>
-                <a href="book.php" class="btn">Book now</a>
+                <a href="book.php" class="btn">Pedir Ya</a>
             </div>       
         </div>
 
@@ -134,7 +134,7 @@ require '../partials/header.php';
             <div class="content">
                 <h3>Torta ejemplo 11</h3>
                 <p>Lorem ipsum dolor sit amet consectetur, Lorem ipsum dolor sit amet consectetur,</p>
-                <a href="book.php" class="btn">Book now</a>
+                <a href="book.php" class="btn">Pedir Ya</a>
             </div>       
         </div>
 
@@ -145,13 +145,13 @@ require '../partials/header.php';
             <div class="content">
                 <h3>Torta ejemplo 12</h3>
                 <p>Lorem ipsum dolor sit amet consectetur, Lorem ipsum dolor sit amet consectetur,</p>
-                <a href="book.php" class="btn">Book now</a>
+                <a href="book.php" class="btn">Pedir Ya</a>
             </div>       
         </div>
 
     </div>
 
-    <div class="load-more"><span class="btn">load more</span></div>
+    <div class="load-more"><span class="btn">+ variedad</span></div>
 
 </section>
 
